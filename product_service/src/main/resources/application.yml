@@ -1,0 +1,13 @@
+server:
+  port: 8400
+
+spring:
+  application:
+    name: product_service
+
+eureka:
+  instance:
+    instance-id: ${spring.application.name}
+  client:
+    service-url:
+      defaultZone: http://localhost:8300/eureka #eureka服务器地址
