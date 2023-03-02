@@ -1,9 +1,9 @@
 package com.sunjinwei.dto;
 
 /**
- * @program: com.sunjinwei.dto
+ * @program: com.sunjinwei
  * @author: sun jinwei
- * @create: 2023-03-02 07:34
+ * @create: 2023-03-02 08:11
  * @description:
  **/
 public class Result {
